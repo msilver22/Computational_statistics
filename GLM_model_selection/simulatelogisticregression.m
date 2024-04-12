@@ -22,7 +22,7 @@ bullet = {'o','markersize',6,'linewidth',2,'color',bulletcolor,...
 seed = studnumber;
 if realrandom==false, randn('state',seed); rand('state',seed); end
 
-samplesize = 1000;
+%samplesize = 1000;
 n = samplesize; m = modelsize;
 x = sort(rand(n,1));
 p = (cos(5*x.^2)+1)/2; U = rand(n,1); Y = double(U<p); % DGP
