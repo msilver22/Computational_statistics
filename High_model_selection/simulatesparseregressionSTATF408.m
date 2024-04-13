@@ -21,7 +21,7 @@ X = zeros(n,m); I = find(rand(n,m)<pX); X(I) = (rand(size(I))-0.5)/10;
 %X = X*10;
 %X= X/10;
 %X = X*3;
-X= X/3;
+%X= X/3;
 mu = X*beta;
 stdev = 1;
 Z = randn(n,1);
@@ -110,7 +110,7 @@ hold off
 axis(axy)
 legend('sample PE','Cp','CpLARS')
 xlabel('model size k')
-title('LARS compared to ITST with X = X/3')
+title('LARS compared to ITST')
 
 
 [minsamplePE, o] = min(samplePEITST);
