@@ -8,4 +8,6 @@ We use AIC and BIC with generated data. Here the [Report](https://github.com/msi
 
 ## 2- [High dimensional model selection](https://github.com/msilver22/Computational_statistics/tree/3a7ca39b8d0e40db5a163d2e20fa2110b5633dd7/High_model_selection)
 
+We use Iterative Soft-thresholding and LARS with generated data. Here the Report with the problem and the results.
+
 
