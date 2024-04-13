@@ -10,4 +10,6 @@ We use AIC and BIC with generated data. Here the [Report](https://github.com/msi
 
 We use Iterative Soft-thresholding and LARS with generated data. Here the [Report](https://github.com/msilver22/Computational_statistics/blob/779fe63123c27e59725a00ba5ad386b95c34d12b/High_model_selection/2report.pdf) with the problem and the results.
 
+## 3- Bootstrap
+
 
