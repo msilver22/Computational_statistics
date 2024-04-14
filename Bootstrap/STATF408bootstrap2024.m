@@ -6,7 +6,7 @@ studnumber = 601156;
 if exist('realrandom') ~= 1, realrandom = false; end
 if realrandom==false, rand('state',studnumber); randn('state',studnumber); end
 
-samplesize = 2000;
+%samplesize = 200;
 B = 10000; %number of resamples
 n = samplesize; % samplesize
 mu = 3; theta = exp(mu); %true parameter
@@ -98,5 +98,5 @@ legend('Percentile IC', 'theta hat', 'True median')
 title('Percentile bootstrap CIs for the first 100 samples')
 xlabel('samples')
 
-coverbasic = sum((basic(1:ns,1)<theta)&(theta<basic(1:ns,2)))/ns
-coverpercentile = sum((percentile(1:ns,1)<theta)&(theta<percentile(1:ns,2)))/ns
+coverbasic = sum((basic(1:ns,1)<theta)&(theta<basic(1:ns,2)))/ns;
+coverpercentile = sum((percentile(1:ns,1)<theta)&(theta<percentile(1:ns,2)))/ns;
