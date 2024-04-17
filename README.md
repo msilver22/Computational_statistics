@@ -14,4 +14,6 @@ We use Iterative Soft-thresholding and LARS with generated data  --> [Report](ht
 
 We use basic/percentile bootstrap confidence interval with generated data --> [Report](https://github.com/msilver22/Computational_statistics/blob/main/Bootstrap/3report.pdf)
 
+## 4- Monte Carlo methods
+
 
