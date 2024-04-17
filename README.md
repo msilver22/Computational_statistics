@@ -14,6 +14,8 @@ We use Iterative Soft-thresholding and LARS with generated data  --> [Report](ht
 
 We use basic/percentile bootstrap confidence interval with generated data --> [Report](https://github.com/msilver22/Computational_statistics/blob/main/Bootstrap/3report.pdf)
 
-## 4- Monte Carlo methods
+## 4- [Monte Carlo methods](https://github.com/msilver22/Computational_statistics/tree/8ed7dcb5f411ff149318198783cb6fa85f045afb/Monte_Carlo_methods) 
+
+We use rejection sampling method to estimate the variance of a target distribution --> Report
 
 
