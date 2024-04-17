@@ -16,6 +16,6 @@ We use basic/percentile bootstrap confidence interval with generated data --> [R
 
 ## 4- [Monte Carlo methods](https://github.com/msilver22/Computational_statistics/tree/8ed7dcb5f411ff149318198783cb6fa85f045afb/Monte_Carlo_methods) 
 
-We use rejection sampling method to estimate the variance of a target distribution --> Report
+We use rejection sampling method to estimate the variance of a target distribution --> [Report](https://github.com/msilver22/Computational_statistics/blob/8ed7dcb5f411ff149318198783cb6fa85f045afb/Monte_Carlo_methods/4report.pdf)
 
 
