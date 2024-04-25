@@ -18,4 +18,8 @@ We use basic/percentile bootstrap confidence interval with generated data --> [R
 
 We use rejection sampling method to estimate the variance of a target distribution --> [Report](https://github.com/msilver22/Computational_statistics/blob/8ed7dcb5f411ff149318198783cb6fa85f045afb/Monte_Carlo_methods/4report.pdf)
 
+## 5- [MCMC](https://github.com/msilver22/Computational_statistics/tree/0fac7f85a20da7f91f4eb5e3e4ac43260fd0b407/MCMC)
+
+We use Gibbs sampler with generated data to delve into Hammersley-Clifford theorem --> [Report](https://github.com/msilver22/Computational_statistics/blob/0fac7f85a20da7f91f4eb5e3e4ac43260fd0b407/MCMC/5report.pdf)
+
 
